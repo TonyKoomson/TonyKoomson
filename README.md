@@ -1,5 +1,5 @@
-  <h1 align="center">Hi 👋, I'm Tony Koomson</h1>
-<img src="https://github.com/user-attachments/assets/f90c4218-2c92-420a-9384-5ae3a1b682e0" align="center" alt="Tony's header image">
+<h1 align="center">Hi 👋, I'm Tony Koomson</h1>
+<img src="https://github.com/user-attachments/assets/c81781bd-86da-4cb8-99be-71684c97f3f7" align="center" alt="Tony's header image">
 <hr>
 <p> </p>
 <h3 align="left">Hi 👋, I'm Tony Koomson, Aspring Software Developer in London. Currently Studying Computer Science at Buckinghamshire Universty.</h3>
