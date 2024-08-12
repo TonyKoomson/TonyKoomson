@@ -6,7 +6,7 @@
 
 Buckinghamshire University | Class of [Graduation Year]
 
-Since beginning my journey in Computer Science at Buckinghamshire University in [Start Year], I’ve developed a strong foundation in software development, algorithms, and data structures. My passion for leveraging technology to solve complex problems has led me to gain hands-on experience with programming languages such as Python, Java, and C++, as well as proficiency in web development technologies like HTML, CSS, and JavaScript.
+Since beginning my journey in Computer Science at Buckinghamshire University in 2023, I’ve developed a strong foundation in software development, algorithms, and data structures. My passion for leveraging technology to solve complex problems has led me to gain hands-on experience with programming languages such as Python, Java, and C++, as well as proficiency in web development technologies like HTML, CSS, and JavaScript.
 
 Throughout my academic career, I’ve undertaken projects that have sharpened my skills in database management, machine learning, and cloud computing, while also fueling my interest in artificial intelligence and cybersecurity. Committed to continuous learning, I’ve successfully completed multiple online courses in data science and DevOps, expanding my technical expertise.
 
