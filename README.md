@@ -5,11 +5,11 @@
 <h3 align="left">Hi 👋, I'm Tony Koomson, Aspring Software Developer in London. 
 <br><br/>
 Studying at Buckinghamshire University 
-
+<br><br/>
 Since beginning my journey in Computer Science at Buckinghamshire University in 2023, I’ve developed a strong foundation in software development, algorithms, and data structures. My passion for leveraging technology to solve complex problems has led me to gain hands-on experience with programming languages such as Python, Java, and C++, as well as proficiency in web development technologies like HTML, CSS, and JavaScript.
-
+<br><br/>
 Throughout my academic career, I’ve undertaken projects that have sharpened my skills in database management, machine learning, and cloud computing, while also fueling my interest in artificial intelligence and cybersecurity. Committed to continuous learning, I’ve successfully completed multiple online courses in data science and DevOps, expanding my technical expertise.
-
+<br><br/>
 I’m a collaborative team player with proven problem-solving and analytical abilities, eager to contribute to innovative software solutions in a dynamic and challenging environment. As I continue to grow as a technology professional, I am excited about the opportunities ahead to apply my skills and make a meaningful impact..</h3>
  
 <hr>
