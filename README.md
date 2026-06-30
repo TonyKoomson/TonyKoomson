@@ -8,20 +8,7 @@ I’m a collaborative team player with proven problem-solving and analytical abi
  
 <hr>
 <p> </p>
-<ul>
-<li>
-<p>🔭 I’m currently working on my WebDevlopment Skills
-</li>
-<li>
-<p>📚 I’m also doing google's certficate for computerscience majors
-</li>
-<li>
-<p>🌱 I’m currently learning html and java script
-</li>
-<li>
-<p>💬 Ask me about <strong>Java, Html, Python, SQL/NoSQL Databases</strong></p>
-</li>
-</ul>
+
 <p> </p>
 <h2 id="me-around-the-web">Me around the web:</h2>
 
