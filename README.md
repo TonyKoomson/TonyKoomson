@@ -6,8 +6,7 @@
 <br><br/>
 I’m a collaborative team player with proven problem-solving and analytical abilities, eager to contribute to innovative software solutions in a dynamic and challenging environment. As I continue to grow as a technology professional, I am excited about the opportunities ahead to apply my skills and make a meaningful impact..</h3>
  
-<hr>
-<p> </p>
+
 
 <p> </p>
 <h2 id="me-around-the-web">Me around the web:</h2>
