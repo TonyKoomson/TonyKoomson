@@ -10,9 +10,7 @@ I’m a collaborative team player with proven problem-solving and analytical abi
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript&amp;logoColor=007ACC" alt="TypeScript">
 <img src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" alt="Python">
-<img src="https://img.shields.io/badge/-PHP-000?&amp;logo=PHP" alt="PHP">
 <h3 id="frontend-development">Frontend development:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-CSS-000?&amp;logo=CSS3" alt="CSS">
