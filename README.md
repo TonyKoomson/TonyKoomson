@@ -5,12 +5,6 @@
 <h3 align="left">Hi 👋, I'm Tony Koomson, Aspring Software Developer in London. 
 <br><br/>
 I’m a collaborative team player with proven problem-solving and analytical abilities, eager to contribute to innovative software solutions in a dynamic and challenging environment. As I continue to grow as a technology professional, I am excited about the opportunities ahead to apply my skills and make a meaningful impact..</h3>
- 
-
-
-<p> </p>
-<h2 id="me-around-the-web">Me around the web:</h2>
-
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <hr>
 <h3 id="programming-languages">Programming languages:</h3>
